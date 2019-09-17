@@ -1,5 +1,5 @@
 # ios-code-sample (iOS Good Practices)
-======================================
+========================================================
 
 _Just like software, this document will rot unless we take care of it. We encourage everyone to help us on that – just open an issue or send a pull request!_
 
